@@ -1,0 +1,17 @@
+li {
+        display: inline-block;
+    }
+
+ul {
+        text-align: center;
+}
+
+th, td {
+        padding: 10px;
+         }
+    th {
+        background: antiquewhite;
+    }
+    td {
+        background: coral;
+    }
